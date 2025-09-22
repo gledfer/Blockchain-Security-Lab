@@ -73,6 +73,6 @@ I'm passionate about blockchain security and open to collaborations, audit oppor
 
 - **LinkedIn**: [www.linkedin.com/in/gledson-fernandes-d-22914b4b](https://www.linkedin.com/in/gledson-fernandes-d-22914b4b)
 - **Email**: gledson.fernandes.santos@gmail.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) *[optional]*
+
 
 > *"In blockchain we trust, but we verify everything."*
